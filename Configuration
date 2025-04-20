@@ -1,0 +1,4 @@
+Modify the nodes array in node_sentinal.py with the IPs you want to simulate/analyze.
+
+Or let it auto-detect your machine's public IP using the built-in feature.
+
